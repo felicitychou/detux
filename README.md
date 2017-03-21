@@ -1,5 +1,7 @@
 # detux
-detux SDK API
+detux.org SDK API
+
+You can use this to search sample in detux.org and get the analysis report of sample based on its sha256.
 
 ```
 usage:
